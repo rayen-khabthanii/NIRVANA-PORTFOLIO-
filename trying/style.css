@@ -1,0 +1,25 @@
+body { background-color: rgb(241, 244, 49);
+	font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+nav{display: flex;
+align-items: center;
+justify-content: space-between;
+text-emphasis-color: yellow;
+padding:2% ;
+font-size: 20px;
+/* height: 1%; */
+}
+.navbar {display: flex;}
+li{margin-left: 1rem;
+list-style: none;
+color: #f2f21e;}
+a{
+    color: black;
+}
+
+.logo {
+	width: 150px;
+}
